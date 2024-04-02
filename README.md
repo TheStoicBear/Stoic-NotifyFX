@@ -1,7 +1,17 @@
-# Stoic-NotifyFX
+
 ![Stoic-NotifyFX](https://github.com/TheStoicBear/Stoic-NotifyFX/assets/112611821/cdad91c3-5f16-4247-b1f2-7fc69812e4a7)
 
 Stoic-NotifyFX is a FiveM resource that provides customizable notifications and alert dialogs for server administrators to use in various scenarios such as warning players or making announcements.
+
+
+## Previews
+![image](https://github.com/TheStoicBear/Stoic-NotifyFX/assets/112611821/7a73f0ae-1a69-48b4-ba03-d63708b2f1d3)
+![image](https://github.com/TheStoicBear/Stoic-NotifyFX/assets/112611821/1620ee76-9c01-450c-bcbe-20fab5199673)
+![image](https://github.com/TheStoicBear/Stoic-NotifyFX/assets/112611821/b62b2fe9-b86d-4a83-8589-e720bc185d6b)
+![image](https://github.com/TheStoicBear/Stoic-NotifyFX/assets/112611821/4cd03bd8-a32e-4c1a-b7bd-5de37fbc5d7d)
+
+
+
 
 ## Features
 
